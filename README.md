@@ -42,5 +42,7 @@ pip install requirements.txt
 ```
 python3 main.py
 ```
+# Screenshot
+![](https://files.catbox.moe/5dsutp.png)
 
 
