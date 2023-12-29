@@ -37,7 +37,7 @@ cd Evan
 apt install python3  
 ```
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ```
 python3 main.py
