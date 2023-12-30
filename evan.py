@@ -61,7 +61,7 @@ def handle_args(user_arg):
     elif user_arg[1] == '-api':
         try:
             api_key = user_arg[2]
-            subprocess.run(["python3", "main.py", api_key])
+            subprocess.run(["python3", "/main.py", api_key])
         except KeyboardInterrupt:
             pass
 
