@@ -16,7 +16,7 @@ She's taking advantage of chatgpt's intelligence and using this intelligence wit
 With she's help you can literally do anything, you can create tools, trojans, phishing scripts, etc
 
 
-# Evan how to install and use
+# Evan how to install
 
 ```
 apt update
@@ -30,17 +30,25 @@ git clone https://github.com/The-Ethical-Guy/Evan.git
 ```
 cd Evan
 ```
+```
+chmod 777 setup.sh
+```
+```
+bash setup.sh
+```
 
 # How to run the tool
-
+to get all tool options
 ```
-apt install python3  
+evan -h 
 ```
+to run it
 ```
-pip install -r requirements.txt
+evan -api <chatgpt-api-key>
 ```
+to update it
 ```
-python3 main.py
+evan -update
 ```
 # Screenshot
 ![](https://files.catbox.moe/5dsutp.png)
