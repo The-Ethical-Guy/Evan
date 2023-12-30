@@ -1,4 +1,5 @@
-import readline
+#import readline
+import sys
 import os
 from openai import OpenAI
 from Evan import Magic_spell
@@ -10,17 +11,9 @@ bond = '\033[1;97m'
 os.system("cls" if os.name == "nt" else "clear")
 
 
-print(""" \033[1;31;40m\  \ \033[1;97m    ______
-  \033[1;31;40m\  \ \033[1;97m  |        \      /     /\      |\   |
-   \033[1;31;40m\  \ \033[1;97m |______   \    /     /  \     | \  |
-   \033[1;31;40m/  / \033[1;97m |          \  /     /____\    |  \ |
-  \033[1;31;40m/  / \033[1;97m  |______     \/     /      \   |   \| \033[1;31;40mBy TheEthicalGuy\033[1;97m
- \033[1;31;40m/  / \033[1;97m  
-    """)
-
 while True:
     try:
-        API_KEY = input("\033[1;31;40mEnter your chatGPT API>>\033[0m " )
+        API_KEY = sys.argv[1]
         break
     except KeyboardInterrupt:
         print("Please try again")
