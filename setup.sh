@@ -8,12 +8,10 @@ echo -e "   \033[1;31;40m/  / \033[1;97m |          \  /     /____\    |  \ |"
 echo -e "  \033[1;31;40m/  / \033[1;97m  |______     \/     /      \   |   \| \033[1;31;40mBy TheEthicalGuy\033[1;97m"
 echo -e " \033[1;31;40m/  / \033[1;97m  "
 
-
-
 tool_name="evan"
 script_path="$( cd "$(dirname "$0")" >/dev/null 2>&1 ; pwd -P )"  # Dynamic script directory
 
-echo -e "#!/bin/bash\npython3 $script_path/$tool_name.py \"\$@\"" > $tool_name
+echo -e "#!/bin/bash\ncd $script_path\npython3 $script_path/$tool_name.py \"\$@\"" > $tool_name
 chmod +x $tool_name
 sudo mv $tool_name /usr/local/bin/
 
