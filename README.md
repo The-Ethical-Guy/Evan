@@ -16,7 +16,7 @@ She's taking advantage of chatgpt's intelligence and using this intelligence wit
 With she's help you can literally do anything, you can create tools, trojans, phishing scripts, etc
 
 
-# TheGrabber how to install and use
+# Evan how to install and use
 
 ```
 apt update
