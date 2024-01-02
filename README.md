@@ -3,8 +3,8 @@
   <img src="https://files.catbox.moe/pzp793.png" width="50%">
 </p>
 
-![Static Badge](https://img.shields.io/badge/module-chatgpt-blue)
-![Static Badge](https://img.shields.io/badge/version-2.2-red)
+![](https://img.shields.io/badge/category-ai_chat_chatbot-blue)
+![](https://img.shields.io/badge/version-2.2-red)
 
 <br>
 
