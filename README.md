@@ -8,7 +8,8 @@ Evan is the best AI chat bot for hackers and pentesters, it's a cracking bot tha
 
  
 # Social media links
-the <a href="https://www.youtube.com/@TheEthicalGuy">youtube channel</a>
+the <a href="https://www.youtube.com/@TheEthicalGuy">youtube channel</a> and my <a href="https://t.me/TheEthicalGuy">telegram channel</a>
+
  
 # What Evan do ?
 She's taking advantage of chatgpt's intelligence and using this intelligence without any ethics, and this is what makes her the best choice to be the assistant of any hacker or pentesters
