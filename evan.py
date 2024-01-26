@@ -1,6 +1,7 @@
 import sys
 import os
 import subprocess
+import readline
 import shutil
 import requests
 from zipfile import ZipFile
