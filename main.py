@@ -1,6 +1,7 @@
 #import readline
 import sys
 import os
+import readline
 from openai import OpenAI
 from Evan import Magic_spell
 
