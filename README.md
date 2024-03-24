@@ -12,8 +12,9 @@
 
 
 <br>
-$${\color{red}This is an old version please check Evora}$$
-
+$${\color{red}WARNING}$$
+This is an old version please check Evora
+<br>
 Evan is the best AI chat bot for hackers and pentesters, it's a cracking bot that cracks the AI ethics and make it can do whatever you want, it made to crack ChatGPT and will be another chat models soon as possible
 
 
